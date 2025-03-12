@@ -1,5 +1,4 @@
 # Triangular Matrices Block Product Project
----
 
 ## Basic concepts
 

@@ -109,7 +109,7 @@ int main() {
         }
         free(A); free(B); free(C);
     }
-	printf("✅ All 40 tests passed.\n");
+    printf("✅ All 40 tests passed.\n");
     printf("Timing results (seconds):\n");
     printf("Naive:\t\t\t%.5f\n", Time[13] / 40.0);
     for (int i = 0; i < 13; ++i) {
